@@ -392,7 +392,7 @@
             <mxRectangle width="95" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VBt77fm7agK6ZMvziGlo-34" value="TrainingInstitution" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="VBt77fm7agK6ZMvziGlo-34" value="OutlookCalendar" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="760" width="130" height="190" as="geometry" />
         </mxCell>
         <mxCell id="VBt77fm7agK6ZMvziGlo-35" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="VBt77fm7agK6ZMvziGlo-34">
@@ -434,7 +434,7 @@
             <mxRectangle width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VBt77fm7agK6ZMvziGlo-44" value="IntegrationRequestForm" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="VBt77fm7agK6ZMvziGlo-44" value="Report" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="760" width="150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="VBt77fm7agK6ZMvziGlo-45" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="VBt77fm7agK6ZMvziGlo-44">
